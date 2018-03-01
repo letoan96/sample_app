@@ -1,3 +1,10 @@
+This app uses Amazon S3 to store pictures. 
+
+
+
+
+
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
